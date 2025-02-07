@@ -1,1 +1,1 @@
-# Dynamics-of-Hyperchaotic-Attractors
+# Dynamics of Hyperchaotic Attractors
