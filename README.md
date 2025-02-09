@@ -1,13 +1,15 @@
 # Dynamics of Hyperchaotic Attractors
 
-The repository will feature a gallery of high-dimensional hyperchaotic attractors. Below are the repositories of the gallery of three-dimensional chaotic attractors:
-- [Dynamics of Nonlinear Attractors](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors)
-- [Dynamics of Chaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors)
+The repository will feature a gallery of high-dimensional hyperchaotic attractors  plotted by me in MATLAB based on [General Algorithm of The Explicit Runge—Kutta Method](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method).
 
 The plots are also available on Pinterest and Behance:
 
 <a href="https://www.pinterest.com/whydenyscry/when-math-and-art-came-face-to-face/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/pinterest-logo-black-and-white-4.png" style="width: 50px; height: 50px;"></a>
 <a href="https://www.behance.net/whydenyscry" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/behance-5-xxl.png" style="width: 50px; height: 50px;"></a>
+
+## Relevant Repositories:
+- [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1)
+- [Dynamics of Chaotic 3D Attractors: Part 2](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-2)
 
 ## The Hyperchaotic Pang—Liu Attractor
 **Reference:**\
