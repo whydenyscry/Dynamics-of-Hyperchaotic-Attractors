@@ -89,7 +89,7 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha x_1 -x_2x_3+x_4	\\
+	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha x_1 -x_2x_3+x_4,	\\
 	\frac{\mathrm{d}x_2}{\mathrm{d}t} = x_1x_3 -\beta x_2, \\
 	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_1x_2-\varsigma x_3+x_1x_4, \\
 	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -x_2,
@@ -114,4 +114,45 @@ $$
 
 <p align="center">
   <img src="gifs/The_Hyperchaotic_Dadras_Momeni_Qi_Attractor_2D_projections.gif"/>
+</p>
+
+## The Hyperchaotic Mathieu—Van der Pol Attractor
+**Reference:**\
+[Li, S.-Y., Huang, S.-C., Yang, C.-H., & Ge, Z.-M. (2012). Generating tri-chaos attractors with three positive Lyapunov exponents in new four order system via linear coupling. Nonlinear Dynamics, 69(3), 805–816.](https://doi.org/10.1007/s11071-011-0306-x)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x_1}{\mathrm{d}t} = x_2,	\\
+	\frac{\mathrm{d}x_2}{\mathrm{d}t} = -\left(\alpha + \beta x_3\right)x_1-\left(\alpha+\beta x_3\right)x_1^3-\varsigma x_2 +\delta x_3, \\
+	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_4, \\
+	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -\varepsilon x_3 + \vartheta\left(1-x_3^2\right)x_4+\zeta x_1 ,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\varepsilon\\
+	\vartheta\\
+	\zeta
+\end{bmatrix} = \begin{bmatrix}
+	91.17\\
+	5.023\\
+	-0.001\\
+	91\\
+	87.001\\
+	0.018\\
+	9.5072
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Hyperchaotic_Mathieu_Van_der_Pol_Attractor_x1x2x3_projection.png"/>
+</p>
+
+<p align="center">
+  <img src="gifs/The_Hyperchaotic_Mathieu_Van_der_Pol_Attractor_2D_projections.gif"/>
 </p>
