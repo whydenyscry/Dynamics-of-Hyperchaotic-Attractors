@@ -82,3 +82,36 @@ $$
 <p align="center">
   <img src="gifs/The_Hyperchaotic_Rossler_Attractor_2D_projections.gif"/>
 </p>
+
+## The Hyperchaotic Dadras—Momeni—Qi Attractor
+**Reference:**\
+[Dadras, S., Momeni, H. R., Qi, G., & Wang, Z. (2011). Four-wing hyperchaotic attractor generated from a new 4D system with one equilibrium and its fractional-order form. Nonlinear Dynamics, 67(2), 1161–1173.](https://doi.org/10.1007/s11071-011-0060-0)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha x_1 -x_2x_3+x_4	\\
+	\frac{\mathrm{d}x_2}{\mathrm{d}t} = x_1x_3 -\beta x_2, \\
+	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_1x_2-\varsigma x_3+x_1x_4, \\
+	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -x_2,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma
+\end{bmatrix} = \begin{bmatrix}
+	8\\
+	40\\
+	14.9
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Hyperchaotic_Dadras_Momeni_Qi_Attractor_x1x2x3_projection.png"/>
+</p>
+
+<p align="center">
+  <img src="gifs/The_Hyperchaotic_Dadras_Momeni_Qi_Attractor_2D_projections.gif"/>
+</p>
