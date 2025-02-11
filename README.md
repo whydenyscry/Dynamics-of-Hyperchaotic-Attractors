@@ -156,3 +156,36 @@ $$
 <p align="center">
   <img src="gifs/The_Hyperchaotic_Mathieu_Van_der_Pol_Attractor_2D_projections.gif"/>
 </p>
+
+## The Hyperchaotic Li—Sprott—Thio Attractor
+**Reference:**\
+[Li, C., Sprott, J. C., & Thio, W. (2014). Bistability in a hyperchaotic system with a line equilibrium. Journal of Experimental and Theoretical Physics, 118(3), 494–500.](https://doi.org/10.1134/s1063776114030121)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x_1}{\mathrm{d}t} = x_2-x_1x_3-x_2x_3+x_4,	\\
+	\frac{\mathrm{d}x_2}{\mathrm{d}t} = \alpha x_1x_3, \\
+	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_2^2-\beta x_3^2, \\
+	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -\varsigma x_2,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma
+\end{bmatrix} = \begin{bmatrix}
+	5\\
+	0.28\\
+	0.05
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Hyperchaotic_Li_Sprott_Thio_Attractor_x1x2x3_projection.png"/>
+</p>
+
+<p align="center">
+  <img src="gifs/The_Hyperchaotic_Li_Sprott_Thio_Attractor_2D_projections.gif"/>
+</p>
