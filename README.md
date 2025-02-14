@@ -189,3 +189,45 @@ $$
 <p align="center">
   <img src="gifs/The_Hyperchaotic_Li_Sprott_Thio_Attractor_2D_projections.gif"/>
 </p>
+
+## The Hyperchaotic Yi—Xiao—Yu Attractor
+**Reference:**\
+[Yi, L., Xiao, W., Yu, W., & Wang, B. (2018). Dynamical analysis, circuit implementation and deep belief network control of new six-dimensional hyperchaotic system. Journal of Algorithms & Computational Technology, 174830181878864.](https://doi.org/10.1177/1748301818788649)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha (x_2 - x_1) + x_4, \\
+	\frac{\mathrm{d}x_2}{\mathrm{d}t} = \varsigma x_1 - x_2 - x_1 x_3 - x_5, \\
+	\frac{\mathrm{d}x_3}{\mathrm{d}t} = -\beta x_3 + x_1 x_2, \\
+	\frac{\mathrm{d}x_4}{\mathrm{d}t} = \delta x_4 - x_2 x_3, \\
+	\frac{\mathrm{d}x_5}{\mathrm{d}t} = \vartheta x_2, \\
+	\frac{\mathrm{d}x_6}{\mathrm{d}t} = -\varepsilon x_6 + x_3 x_4,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\varepsilon\\
+	\vartheta
+\end{bmatrix} =
+\begin{bmatrix}
+	10\\
+	\frac{8}{3}\\
+	28\\
+	-1\\
+	10\\
+	3
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Hyperchaotic_Yi_Xiao_Yu_Attractor_x1x2x3_projection.png"/>
+</p>
+
+<p align="center">
+  <img src="gifs/The_Hyperchaotic_Yi_Xiao_Yu_Attractor_2D_projections.gif"/>
+</p>
