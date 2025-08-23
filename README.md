@@ -18,13 +18,13 @@ The plots are also available on Pinterest and Behance:
 
 $$
 \begin{cases}
-\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha_1 x_6, \\[0.2cm]
-\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = -\alpha_2 x_4 - x_1 x_3, \\[0.2cm]
-\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = -\alpha_3 x_3 + x_1 x_2, \\[0.2cm]
-\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = \alpha_4 x_5, \\[0.2cm]
-\dfrac{\mathrm{d}x_5}{\mathrm{d}t} = \alpha_5 x_2 - x_7, \\[0.2cm]
-\dfrac{\mathrm{d}x_6}{\mathrm{d}t} = -\alpha_6 x_1 - x_5, \\[0.2cm]
-\dfrac{\mathrm{d}x_7}{\mathrm{d}t} = -\alpha_7 x_6 - x_1.
+\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha_1 x_6, \\[0.2cm]
+\frac{\mathrm{d}x_2}{\mathrm{d}t} = -\alpha_2 x_4 - x_1 x_3, \\[0.2cm]
+\frac{\mathrm{d}x_3}{\mathrm{d}t} = -\alpha_3 x_3 + x_1 x_2, \\[0.2cm]
+\frac{\mathrm{d}x_4}{\mathrm{d}t} = \alpha_4 x_5, \\[0.2cm]
+\frac{\mathrm{d}x_5}{\mathrm{d}t} = \alpha_5 x_2 - x_7, \\[0.2cm]
+\frac{\mathrm{d}x_6}{\mathrm{d}t} = -\alpha_6 x_1 - x_5, \\[0.2cm]
+\frac{\mathrm{d}x_7}{\mathrm{d}t} = -\alpha_7 x_6 - x_1.
 \end{cases}
 $$
 
