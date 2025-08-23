@@ -28,7 +28,7 @@ $$
 \end{cases}
 $$
 
-$$
+```math
 \begin{bmatrix}
 \alpha_1 \\ 
 \alpha_2 \\ 
@@ -48,7 +48,7 @@ $$
 43.2 \\ 
 30
 \end{bmatrix}.
-$$
+```
 
 <p align="center">
   <img src="images_png/The_Hyperchaotic_Mobayen_Mostafaee_Attractor_x1x2x3_projection.png"/>
