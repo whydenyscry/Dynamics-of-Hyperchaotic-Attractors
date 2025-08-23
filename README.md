@@ -11,6 +11,53 @@ The plots are also available on Pinterest and Behance:
 - [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1)
 - [Dynamics of Chaotic 3D Attractors: Part 2](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-2)
 
+
+## The Hyperchaotic Mobayen—Mostafaee Attractor
+**Reference:**\
+[Mobayen, S., Mostafaee, J., Alattas, K. A., Ke, M., Hsueh, Y., & Zhilenkov, A. (2024). A new hyperchaotic system: circuit realization, nonlinear analysis and synchronization control. Physica Scripta, 99(10), 105204.](https://doi.org/10.1088/1402-4896/ad71fc)
+
+$$
+\begin{cases}
+\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha_1 x_6, \\[0.2cm]
+\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = -\alpha_2 x_4 - x_1 x_3, \\[0.2cm]
+\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = -\alpha_3 x_3 + x_1 x_2, \\[0.2cm]
+\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = \alpha_4 x_5, \\[0.2cm]
+\dfrac{\mathrm{d}x_5}{\mathrm{d}t} = \alpha_5 x_2 - x_7, \\[0.2cm]
+\dfrac{\mathrm{d}x_6}{\mathrm{d}t} = -\alpha_6 x_1 - x_5, \\[0.2cm]
+\dfrac{\mathrm{d}x_7}{\mathrm{d}t} = -\alpha_7 x_6 - x_1.
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+\alpha_1 \\ 
+\alpha_2 \\ 
+\alpha_3 \\ 
+\alpha_4 \\ 
+\alpha_5 \\ 
+\alpha_6 \\ 
+\alpha_7
+\end{bmatrix}
+=
+\begin{bmatrix}
+90 \\ 
+12 \\ 
+200 \\ 
+6 \\ 
+5.17 \\ 
+43.2 \\ 
+30
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Hyperchaotic_Mobayen_Mostafaee_Attractor_x1x2x3_projection.png"/>
+</p>
+
+<p align="center">
+  <img src="gifs/The_Hyperchaotic_Mobayen_Mostafaee_Attractor_2D_projections.gif"/>
+</p>
+
 ## The Hyperchaotic Pang—Liu Attractor
 **Reference:**\
 [Pang, S., & Liu, Y. (2011). A new hyperchaotic system from the Lü system and its control. Journal of Computational and Applied Mathematics, 235(8), 2775–2789.](https://doi.org/10.1016/j.cam.2010.11.029)
