@@ -18,12 +18,12 @@ The plots are also available on Pinterest and Behance:
 
 $$
 \begin{cases}
-\dfrac{dx_1}{dt} = \alpha_1 x_6, \\[0.2cm]
-\dfrac{dx_2}{dt} = -\alpha_2 x_4 - x_1 x_3, \\[0.2cm]
-\dfrac{dx_3}{dt} = -\alpha_3 x_3 + x_1 x_2, \\[0.2cm]
-\dfrac{dx_4}{dt} = \alpha_4 x_5, \\[0.2cm]
-\dfrac{dx_5}{dt} = \alpha_5 x_2 - x_7, \\[0.2cm]
-\dfrac{dx_6}{dt} = -\alpha_6 x_1 - x_5, \\[0.2cm]
+\dfrac{dx_1}{dt} = \alpha_1 x_6, \\
+\dfrac{dx_2}{dt} = -\alpha_2 x_4 - x_1 x_3, \\
+\dfrac{dx_3}{dt} = -\alpha_3 x_3 + x_1 x_2, \\
+\dfrac{dx_4}{dt} = \alpha_4 x_5, \\
+\dfrac{dx_5}{dt} = \alpha_5 x_2 - x_7, \\
+\dfrac{dx_6}{dt} = -\alpha_6 x_1 - x_5, \\
 \dfrac{dx_7}{dt} = -\alpha_7 x_6 - x_1
 \end{cases}
 $$
