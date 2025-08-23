@@ -18,13 +18,13 @@ The plots are also available on Pinterest and Behance:
 
 $$
 \begin{cases}
-\dfrac{dx_1}{dt} = \alpha_1 x_6, \\
-\dfrac{dx_2}{dt} = -\alpha_2 x_4 - x_1 x_3, \\
-\dfrac{dx_3}{dt} = -\alpha_3 x_3 + x_1 x_2, \\
-\dfrac{dx_4}{dt} = \alpha_4 x_5, \\
-\dfrac{dx_5}{dt} = \alpha_5 x_2 - x_7, \\
-\dfrac{dx_6}{dt} = -\alpha_6 x_1 - x_5, \\
-\dfrac{dx_7}{dt} = -\alpha_7 x_6 - x_1
+\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha_1 x_6, \\
+\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = -\alpha_2 x_4 - x_1 x_3, \\
+\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = -\alpha_3 x_3 + x_1 x_2, \\
+\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = \alpha_4 x_5, \\
+\dfrac{\mathrm{d}x_5}{\mathrm{d}t} = \alpha_5 x_2 - x_7, \\
+\dfrac{\mathrm{d}x_6}{\mathrm{d}t} = -\alpha_6 x_1 - x_5, \\
+\dfrac{\mathrm{d}x_7}{\mathrm{d}t} = -\alpha_7 x_6 - x_1.
 \end{cases}
 $$
 
@@ -47,7 +47,7 @@ $$
 5.17 \\ 
 43.2 \\ 
 30
-\end{bmatrix}
+\end{bmatrix}.
 $$
 
 <p align="center">
