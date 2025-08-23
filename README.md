@@ -64,10 +64,10 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha\left(x_2-x_1\right)	\\
-	\frac{\mathrm{d}x_2}{\mathrm{d}t} = -x_1x_3+\varsigma x_2+x_4, \\
-	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_1x_2-\beta x_3, \\
-	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -\delta x_1 -\varepsilon x_2,
+	\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha\left(x_2-x_1\right)	\\
+	\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = -x_1x_3+\varsigma x_2+x_4, \\
+	\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = x_1x_2-\beta x_3, \\
+	\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = -\delta x_1 -\varepsilon x_2,
 \end{cases}
 $$
 
@@ -101,10 +101,10 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} =-x_2-x_3	\\
-	\frac{\mathrm{d}x_2}{\mathrm{d}t} = x_1+\alpha x_2+x_4, \\
-	\frac{\mathrm{d}x_3}{\mathrm{d}t} = \beta+x_1x_3, \\
-	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -\varsigma x_3+\delta x_4,
+	\dfrac{\mathrm{d}x_1}{\mathrm{d}t} =-x_2-x_3	\\
+	\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = x_1+\alpha x_2+x_4, \\
+	\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = \beta+x_1x_3, \\
+	\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = -\varsigma x_3+\delta x_4,
 \end{cases}
 $$
 
@@ -136,10 +136,10 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha x_1 -x_2x_3+x_4,	\\
-	\frac{\mathrm{d}x_2}{\mathrm{d}t} = x_1x_3 -\beta x_2, \\
-	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_1x_2-\varsigma x_3+x_1x_4, \\
-	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -x_2,
+	\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha x_1 -x_2x_3+x_4,	\\
+	\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = x_1x_3 -\beta x_2, \\
+	\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = x_1x_2-\varsigma x_3+x_1x_4, \\
+	\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = -x_2,
 \end{cases}
 $$
 
@@ -169,10 +169,10 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} = x_2,	\\
-	\frac{\mathrm{d}x_2}{\mathrm{d}t} = -\left(\alpha + \beta x_3\right)x_1-\left(\alpha+\beta x_3\right)x_1^3-\varsigma x_2 +\delta x_3, \\
-	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_4, \\
-	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -\varepsilon x_3 + \vartheta\left(1-x_3^2\right)x_4+\zeta x_1 ,
+	\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = x_2,	\\
+	\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = -\left(\alpha + \beta x_3\right)x_1-\left(\alpha+\beta x_3\right)x_1^3-\varsigma x_2 +\delta x_3, \\
+	\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = x_4, \\
+	\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = -\varepsilon x_3 + \vartheta\left(1-x_3^2\right)x_4+\zeta x_1 ,
 \end{cases}
 $$
 
@@ -210,10 +210,10 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} = x_2-x_1x_3-x_2x_3+x_4,	\\
-	\frac{\mathrm{d}x_2}{\mathrm{d}t} = \alpha x_1x_3, \\
-	\frac{\mathrm{d}x_3}{\mathrm{d}t} = x_2^2-\beta x_3^2, \\
-	\frac{\mathrm{d}x_4}{\mathrm{d}t} = -\varsigma x_2,
+	\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = x_2-x_1x_3-x_2x_3+x_4,	\\
+	\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = \alpha x_1x_3, \\
+	\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = x_2^2-\beta x_3^2, \\
+	\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = -\varsigma x_2,
 \end{cases}
 $$
 
@@ -243,12 +243,12 @@ $$
 
 $$ 
 \begin{cases}
-	\frac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha (x_2 - x_1) + x_4, \\
-	\frac{\mathrm{d}x_2}{\mathrm{d}t} = \varsigma x_1 - x_2 - x_1 x_3 - x_5, \\
-	\frac{\mathrm{d}x_3}{\mathrm{d}t} = -\beta x_3 + x_1 x_2, \\
-	\frac{\mathrm{d}x_4}{\mathrm{d}t} = \delta x_4 - x_2 x_3, \\
-	\frac{\mathrm{d}x_5}{\mathrm{d}t} = \vartheta x_2, \\
-	\frac{\mathrm{d}x_6}{\mathrm{d}t} = -\varepsilon x_6 + x_3 x_4,
+	\dfrac{\mathrm{d}x_1}{\mathrm{d}t} = \alpha (x_2 - x_1) + x_4, \\
+	\dfrac{\mathrm{d}x_2}{\mathrm{d}t} = \varsigma x_1 - x_2 - x_1 x_3 - x_5, \\
+	\dfrac{\mathrm{d}x_3}{\mathrm{d}t} = -\beta x_3 + x_1 x_2, \\
+	\dfrac{\mathrm{d}x_4}{\mathrm{d}t} = \delta x_4 - x_2 x_3, \\
+	\dfrac{\mathrm{d}x_5}{\mathrm{d}t} = \vartheta x_2, \\
+	\dfrac{\mathrm{d}x_6}{\mathrm{d}t} = -\varepsilon x_6 + x_3 x_4,
 \end{cases}
 $$
 
@@ -263,7 +263,7 @@ $$
 \end{bmatrix} =
 \begin{bmatrix}
 	10\\
-	\frac{8}{3}\\
+	\dfrac{8}{3}\\
 	28\\
 	-1\\
 	10\\
